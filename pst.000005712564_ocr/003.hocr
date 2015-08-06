@@ -1,0 +1,30 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/57/pst.000005712564/003.png"; bbox 0 0 2070 3149; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 710 966 1255 1112">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 710 966 1255 1112">
+     <span class='ocr_line' id='line_1_1' title="bbox 710 966 1255 1112; baseline -0.002 -1"><span class='ocrx_word' id='word_1_1' title='bbox 710 966 1255 1112; x_wconf 56' lang='lat' dir='ltr'>PENNSTYHLEIANIA</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 644 1147 1318 1204">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 644 1147 1318 1204">
+     <span class='ocr_line' id='line_1_2' title="bbox 644 1147 1318 1204; baseline -0.003 -1"><span class='ocrx_word' id='word_1_2' title='bbox 644 1148 853 1204; x_wconf 93' lang='lat' dir='ltr'><strong>STATE</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 903 1147 1318 1204; x_wconf 93' lang='lat' dir='ltr'>UNIVERSITY</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 833 1239 1127 1347">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 833 1239 1127 1347">
+     <span class='ocr_line' id='line_1_3' title="bbox 833 1239 1127 1347; baseline -0.003 -53"><span class='ocrx_word' id='word_1_4' title='bbox 833 1239 1127 1347; x_wconf 35' lang='lat' dir='ltr'>LIBR+ARY</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 905 1399 2097">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 644 966 1318 1347">
+     <span class='ocr_line' id='line_1_4' title="bbox 710 966 1255 1112; baseline -0.002 -1"><span class='ocrx_word' id='word_1_5' title='bbox 710 966 1255 1112; x_wconf 55' lang='lat' dir='ltr'>PENNSTYHLE/ANIA</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 644 1147 1318 1204; baseline -0.003 -1"><span class='ocrx_word' id='word_1_6' title='bbox 644 1148 853 1204; x_wconf 93' lang='lat' dir='ltr'><strong>STATE</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 903 1147 1318 1204; x_wconf 93' lang='lat' dir='ltr'>UNIVERSITY</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 833 1239 1127 1347; baseline -0.003 -53"><span class='ocrx_word' id='word_1_8' title='bbox 833 1239 1127 1347; x_wconf 38' lang='lat' dir='ltr'>LIBRﬁRY</span> 
+     </span>
+    </p>
+   </div>
+  </div>
